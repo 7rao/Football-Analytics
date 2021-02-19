@@ -1,2 +1,2 @@
 # Football-Analytics
-Data Visualisations 
+Data Visualisations for Football (Soccer) analysis
